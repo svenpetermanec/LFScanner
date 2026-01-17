@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: LFScanner
+## Notes: Alerts you when someone is looking for your role in selected raids or dungeons
+## Author: Hoofmooster
+## Version: 1.0
+## SavedVariables: LFScannerDB
+
+LFScanner.lua
